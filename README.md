@@ -171,12 +171,6 @@ If you have ideas for improvements or discover any issues, feel free to open an 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Author
 
 **Krishna Gupta**
